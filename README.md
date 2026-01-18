@@ -1,4 +1,4 @@
-# bistrot-restaurant
+# Bistrot Elegance Restaurant
 Restaurant Bistrot Elegance Cluj
 
 # Contact
